@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 1,
+        "height": 220,
+        "width": 200,
+        "imageUrl": "https://www.pexels.com/photo/taj-mahal-and-the-four-minarets-1603650/",
+        "placeName" : "Taj mahal",
+        "location" : "Agra",
+        "rating" : 4.9
+    },
+    {
+        "id" : 2,
+        "height": 220,
+        "width": 200,
+        "imageUrl": "https://www.pexels.com/photo/great-wall-of-china-near-green-trees-13789557/",
+        "placeName" : "Great wall of china",
+        "location" : "china",
+        "rating" : 4.8
+    },
+    {
+        "id" : 3,
+        "height": 220,
+        "width": 200,
+        "imageUrl": "https://www.pexels.com/photo/the-machu-picchu-in-peru-13973203/",
+        "placeName" : "Machu Pichu",
+        "location" : "Southern Peru",
+        "rating" : 4.7
+    },
+    {
+        "id" : 4,
+        "height": 220,
+        "width": 200,
+        "imageUrl": "https://www.pexels.com/search/eiffel%20tower/",
+        "placeName" : "Eiffel tower",
+        "location" : "paris",
+        "rating" : 4.7
+    },
+    {
+        "id" : 5,
+        "height": 220,
+        "width": 200,
+        "imageUrl": "https://www.pexels.com/photo/snow-covered-mountain-peak-under-white-clouds-7846481/",
+        "placeName" : "manali",
+        "location" : "manali",
+        "rating" : 4.7
+    }
+]
